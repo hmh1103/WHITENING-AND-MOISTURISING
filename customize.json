@@ -1,0 +1,31 @@
+{
+  "greeting": "你好呀",
+  "name": "黄乐慧",
+  "greetingText": "今天是你的生日啊🎂！！！",
+  "wishText": "风禾尽起🍀福暖四季✨️余生顺遂🎁平安喜乐🍬",
+  "imagePath": "img/lydia2.png",
+  "text1": "恭喜你又长大了一岁 🎉🎉🎉",
+  "textInChatBox": "非常非常非常诚挚的祝你生日快乐！！！很多很多的快乐……",
+  "sendButtonLabel": "发送",
+  "text2": "🎵🔔叮~~成长值+1",
+  "text3": "成为地球🌏️观察员的第18年(≧∀≦)ゞ",
+  "text4": "我觉得，我需要做一些",
+  "text4Adjective": "特殊的事情",
+  "text5Entry": "因为",
+  "text5Content": "你对于我来说，很特殊",
+  "smiley": ":)",
+  "bigTextPart1": "所",
+  "bigTextPart2": "以",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "愿你新的一岁，梦想成真🎐!",
+  "replayText": "如果你喜欢的话，可以再看一次哦!",
+  "outroSmiley": ":)",
+  "music": "./music/bgMusic.mp3",
+  "fonts": [
+    {
+      "name": "Ma Shan Zheng",
+      "path": "https://fonts.googleapis.com/css?family=Ma+Shan+Zheng&display=swap"
+    }
+  ]
+}
+
